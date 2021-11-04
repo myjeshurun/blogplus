@@ -1,0 +1,25 @@
+{
+  "title": "IE 11ty on GitHub Pages, CloudFlare CDN and Netlify CMS",
+  "url": "https://avortex.online",
+  "domain": "avortex.online",
+  "description": "How to set up Industrial Empathy (IE) Eleventy (11ty) template on GitHub (GH) Pages behind CloudFlare (CF) Edge CDN and edit markdown using Netlify CMS",
+  "genre": "Blog",
+  "googleAnalyticsId": "GA ID. Update me",
+  "feed": {
+    "subtitle": "Generic tech feed",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://avortex.online"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://avortex.online/feed/feed.json"
+  },
+  "author": {
+    "name": "TED Vortex",
+    "twitterHandle": "0_vortex"
+  },
+  "publisher": {
+    "name": "TED Vortex"
+  }
+}
