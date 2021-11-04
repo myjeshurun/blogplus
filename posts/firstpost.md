@@ -1,5 +1,5 @@
 ---
-title: "Part 1: Using OnlyDomains to register a new domain"
+title: "Part 1: Using OnlyDomains to register a new domain测试"
 description: This is a post describing how to set up a domain using onlydomains.com.
 date: 2020-12-13
 tags:
